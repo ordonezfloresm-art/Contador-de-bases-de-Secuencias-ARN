@@ -1,0 +1,8 @@
+Resultados de ejemplo
+
+A: 1
+U: 2
+C: 3
+G: 5
+
+Total de bases: 11
