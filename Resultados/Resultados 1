@@ -1,0 +1,6 @@
+# Plasmodium falciparum
+Especie                  |               Cadena           |    T    |    G   |    C   |   A   |    Total   |    % GC     |
+Plasmodium falciparum    |       ACCCCTCGCCTGGTGTTTTT     |    7    |    4   |    8   |   1   |     20     |    60.0%    |      
+Plasmodium falciparum    |       TCGGGCCCCAAAAATAGGAA     |    2    |    6   |    5   |   7   |     20     |    55.0%    |
+Plasmodium vivax         |   ACTGACACTGATGATTTAGAACCCATTT |    9    |    4   |    6   |   9   |     28     |    35.7%    |
+Plasmodium vivax         |   TGGAGAGATCTTTCCATCCTAAACCT8  |    8    |	   5   |	  6	  |   7	  |     26     |	  42.3%    |
